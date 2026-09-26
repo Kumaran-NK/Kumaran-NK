@@ -1,16 +1,23 @@
-## Hi there 👋
+# Kuma 👋
 
-<!--
-**Kumaran-NK/Kumaran-NK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> code → build → break → debug → repeat.
 
-Here are some ideas to get you started:
+ECE student | Developer | ML enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things, experimenting with new technologies,
+and occasionally spending way too long debugging something
+that turns out to be a missing semicolon.
+
+### Currently
+- Learning DSA & System Design
+- Building ML/AI projects
+- Exploring backend development
+- Contributing to open source
+
+### Tech
+Java • Python • C • Dart  
+FastAPI • Flutter • Streamlit  
+TensorFlow • Scikit-learn • Pandas • NumPy
+
+### Find me
+GitHub • LinkedIn • LeetCode
