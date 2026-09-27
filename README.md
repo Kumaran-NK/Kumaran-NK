@@ -1,16 +1,22 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER / BANNER ===================== -->
 
 <div align="center">
 
-<img src="./assets/kumaran_github_animated_final.svg" width="100%" alt="Kumaran GitHub Animated Banner">
+<img src="./assets/kumaran_github_animated_final.svg"
+     width="100%"
+     alt="Kumaran GitHub Animated Banner">
+
+</div>
 
 <br>
 
-## 👋 Hey, I'm Kumaran
+<!-- ===================== INTRODUCTION ===================== -->
 
-### `ECE Student` • `Developer` • `ML Enthusiast`
+<div align="center">
 
-*Building things, breaking things, debugging things.*
+<img src="./assets/kumaran_intro_with_photo_v3.svg"
+     width="100%"
+     alt="Kumaran Introduction Card">
 
 </div>
 
