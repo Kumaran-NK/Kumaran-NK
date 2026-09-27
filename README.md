@@ -1,23 +1,28 @@
-# Kuma 👋
+<!-- ===================== HEADER ===================== -->
 
-> code → build → break → debug → repeat.
+<div align="center">
 
-ECE student | Developer | ML enthusiast
+<img src="./assets/kumaran_github_animated_final.svg" width="100%" alt="Kumaran GitHub Animated Banner">
 
-I like building things, experimenting with new technologies,
-and occasionally spending way too long debugging something
-that turns out to be a missing semicolon.
+<br>
 
-### Currently
-- Learning DSA & System Design
-- Building ML/AI projects
-- Exploring backend development
-- Contributing to open source
+## 👋 Hey, I'm Kumaran
 
-### Tech
-Java • Python • C • Dart  
-FastAPI • Flutter • Streamlit  
-TensorFlow • Scikit-learn • Pandas • NumPy
+### `ECE Student` • `Developer` • `ML Enthusiast`
 
-### Find me
-GitHub • LinkedIn • LeetCode
+*Building things, breaking things, debugging things.*
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+## 🐱 About Me
+
+```text
+🎓  ECE Student
+💻  Developer
+🤖  Machine Learning Enthusiast
+🌱  Open Source Explorer
+🧠  Currently obsessed with DSA & System Design
