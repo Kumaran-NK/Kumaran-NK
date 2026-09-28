@@ -71,16 +71,15 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,dart,react,tailwind,html,css,spring,fastapi,streamlit" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,dart,react,tailwind,html,css,spring,fastapi" />
 
-<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mysql,postgres,mongodb,firebase,redis,docker,git,github,postman,linux,huggingface" />
+<img src="https://skillicons.dev/icons?i=streamlit,tensorflow,sklearn,mysql,postgres,mongodb,firebase,redis,docker,git,github,postman,linux,huggingface" />
 
 </div>
 
-<br>
+<br/>
