@@ -20,7 +20,6 @@
 
 </div>
 
-<br>
 
 <hr size="7">
 
@@ -32,7 +31,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=850&height=50&duration=3500&pause=1000&color=58A6FF&lines=ECE+Student+%7C+Software+Engineering+Enthusiast;Building+Backend+Systems+%7C+AI-Powered+Applications;Learning+DSA+%7C+System+Design+%7C+Machine+Learning;Turning+Ideas+Into+Working+Projects" />
 </h3>
 
-<br>
+<!-- <br> -->
 
 <div align="center">
 
